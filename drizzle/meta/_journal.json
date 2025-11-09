@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762645294421,
+      "tag": "0000_complete_xorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762645354743,
+      "tag": "0001_lean_war_machine",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762647276861,
+      "tag": "0002_empty_umar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762649553252,
+      "tag": "0003_special_shadowcat",
+      "breakpoints": true
+    }
+  ]
+}
